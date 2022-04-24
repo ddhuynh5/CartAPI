@@ -1,3 +1,5 @@
+*Note: This is a copy of my repo from the org (Clemson 3720 Software Engineering Team Repositories -> Team6-Cart)*</br>
+
 # Team 6: Banana Slugs
 ### Team Members: Hayden Strong, Dennis Huynh, Mackenzie Blue, Forrest Zach
 
